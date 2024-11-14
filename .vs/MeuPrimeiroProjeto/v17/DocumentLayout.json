@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2A25A24-0A1F-4352-9061-910CEA9913BF}|MeuPrimeiroProjeto.csproj|c:\\users\\2023202060032\\onedrive - ifro.edu.br\\programa\u00E7\u00E3o orientada a objeto\\meuprimeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2A25A24-0A1F-4352-9061-910CEA9913BF}|MeuPrimeiroProjeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A25A24-0A1F-4352-9061-910CEA9913BF}|MeuPrimeiroProjeto.csproj|c:\\users\\2023202060032\\onedrive - ifro.edu.br\\programa\u00E7\u00E3o orientada a objeto\\meuprimeiroprojeto\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A25A24-0A1F-4352-9061-910CEA9913BF}|MeuPrimeiroProjeto.csproj|solutionrelative:conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060032\\OneDrive - ifro.edu.br\\Programa\u00E7\u00E3o Orientada a Objeto\\MeuPrimeiroProjeto\\Conta.cs",
+              "RelativeDocumentMoniker": "Conta.cs",
+              "ToolTip": "C:\\Users\\2023202060032\\OneDrive - ifro.edu.br\\Programa\u00E7\u00E3o Orientada a Objeto\\MeuPrimeiroProjeto\\Conta.cs",
+              "RelativeToolTip": "Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:10:16.717Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\2023202060032\\OneDrive - ifro.edu.br\\Programa\u00E7\u00E3o Orientada a Objeto\\MeuPrimeiroProjeto\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T00:13:42.58Z",
               "EditorCaption": ""

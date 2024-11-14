@@ -1,3 +1,33 @@
-﻿int a = 777;
-Console.WriteLine(a);
-Console.WriteLine("Meu Primeiro Projeto");
+﻿try
+{
+Conta c = new Conta();
+    c.SetSaldo(-60);
+}
+catch (Exception ex)
+{
+Console.WriteLine(ex.Message);
+}
+
+
+
+
+
+//try
+//{
+//    Console.WriteLine("Digite um valor");
+//    int valor = Convert.ToInt32(Console.ReadLine());
+
+//    Console.WriteLine(valor / 0);
+//}
+//catch(DivideByZeroException dbz)
+//{
+//    Console.WriteLine($"Erro ao tentar dividir por zero");
+//}
+//catch(IndexOutOfRangeException ire)
+//{
+//    Console.WriteLine($"{ire}");
+//}
+//catch (Exception ex)
+//{
+//    Console.WriteLine("Valor inválido!  " + ex.Message);
+//}
